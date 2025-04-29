@@ -32,3 +32,19 @@ The schema uses appropriate constraints such as `PRIMARY KEY`, `FOREIGN KEY`, `U
 ```sql
 SOURCE Question1_LibraryDB.sql;
 
+# Library API
+
+## Description
+This is a simple CRUD API for managing books in a library. The API allows users to create, read, update, and delete book records.
+
+## Tech Stack
+- Node.js
+- Express.js
+- MySQL
+
+## Setup Instructions
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/library-api.git
+   cd library-api
